@@ -1,0 +1,6 @@
+html页面由于th模板的问题 标签末尾必须有/  解决：
+application配置文件中 更改.mode=gra
+
+当链接中同时存在href和th:href时，th生效
+
+修改页面表单中的值时，要有隐藏域取id
